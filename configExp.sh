@@ -105,16 +105,4 @@ exit
 # --enable-libmodplug \
 # --enable-libkvazaar \
 
-# nvenc SDK 6.0
-# --enable-hwaccel=h264_dxva2 \
-# --enable-hwaccel=hevc_dxva2 \
-# --enable-avisynth \
-# --enable-w32threads \
-# --extra-ldflags="-static -static-libgcc" \
-# --extra-cflags="-march=i686 -mtune=generic -mfpmath=sse -msse" \
-# --enable-extra-warnings \
-# --disable-debug \
-# --enable-runtime-cpudetect \
-# --optflags="-O2 -finline-functions" \
-# --pkg-config-flags="--static" \
 # --extra-version="_$dir" 
