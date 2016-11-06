@@ -10,7 +10,9 @@ __mingw-w64 msys2 と必要ライブラリーは予めインストールが必�
 
 ビルド方法：
 
- bash configExp.sh
+git clone https://github.com/orz-/build-ffmpeg-mingw.git  
+cd build-ffmpeg-mingw  
+bash configExp.sh
 
 ----
 For build a [ffmpeg](https://github.com/Saccubus/ffmpeg)  windows binary to use with [Saccubus1.x](https://github.com/Saccubus/Saccubus1.x)   
@@ -24,5 +26,7 @@ license is WTFPL http://www.wtfpl.net/txt/copying/
 
 to build ffmpeg, please try
 
+git clone https://github.com/orz-/build-ffmpeg-mingw.git  
+cd build-ffmpeg-mingw  
 bash configExp.sh
 
