@@ -17,7 +17,8 @@ For build a [ffmpeg](https://github.com/Saccubus/ffmpeg)  windows binary to use 
 ffmpeg 32bit(x86) configure and build shell script (just a memo)
 
 __This should require mingw-w64 msys2 and necessary libralies
- which have been already installed.__
+ which have been already installed.__  
+ refer https://github.com/orz-/build-ffmpeg-mingw/blob/master/libraries.txt
 
 license is WTFPL http://www.wtfpl.net/txt/copying/
 
