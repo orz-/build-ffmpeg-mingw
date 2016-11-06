@@ -4,6 +4,7 @@
 mingw-w64 msys2ビルドスクリプト（自分用メモ）
 
 __mingw-w64 msys2 と必要ライブラリーは予めインストールが必要__
+/libraries.txt 参照
 
 「勝手にしやがれ」ライセンス(WTFPL http://www.wtfpl.net/txt/copying/)
 
