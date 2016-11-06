@@ -5,6 +5,7 @@
 // mingw32 32bit ffmpeg用
 msys2 
 mingw-w64
+gcc	#mingw32/mingw-w64-i686-gcc 6.2.0-2
 git	#msys/git 2.10.1-1 (VCS)
 nasm	#msys/nasm 2.12-1 
 yasm	#msys/yasm 1.3.0-2 , mingw32/mingw-w64-i686-yasm 1.3.0-2
