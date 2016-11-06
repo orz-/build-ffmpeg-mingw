@@ -1,8 +1,8 @@
 #!/bin/bash
-# Usage: configExp.sh ffmpeg-git-dir-path
+# Usage: bash configExp.sh ffmpeg-git-dir-path
 #        otherwize use "../ffmpeg" as ffmpeg-git-path
 ffmpegdir=$1
-if [[ -z $ffnoegdir ]]; then
+if [[ -z $ffmpegdir ]]; then
   ffmpegdir=$PWD/../ffmpeg
 fi
 export dir=$ffmpegdir
@@ -87,11 +87,14 @@ TEMPDIR=/mingw32/tmp LANG=C lang=C $dir/configure \
 
 echo End Configuration Script: $dir/configure
 cat<<EOA
+ ########################################################
  Starting build ffmpeg.exe
  It will take SOME TIME (a few hours.. or minutes or else)
  Please take it easy and wait and take a break.
+ ########################################################
 EOA
 make
+$PWD/ffmpeg.exe -version
 cat<<EOB
  ########
  # DONE!#
