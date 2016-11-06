@@ -5,8 +5,9 @@
 // mingw32 32bit ffmpeg用
 msys2 
 mingw-w64
-nasm	#mingw32/mingw-w64-i686-nasm 2.12.02-1
-yasm	#mingw32/mingw-w64-i686-yasm 1.3.0-2
+git	#msys/git 2.10.1-1 (VCS)
+nasm	#msys/nasm 2.12-1 
+yasm	#msys/yasm 1.3.0-2 , mingw32/mingw-w64-i686-yasm 1.3.0-2
 opencore-amrnb	#mingw32/mingw-w64-i686-opencore-amr
 opencore-amrwb	#mingw32/mingw-w64-i686-opencore-amr
 vo-amrwbenc	@https://sourceforge.net/projects/opencore-amr/files/vo-amrwbenc/
