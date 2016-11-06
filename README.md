@@ -13,7 +13,7 @@ libraries.txt 参照
  bash configExp.sh
 
 ----
-For build a [ffmpeg](https://github.com/Saccubus/ffmpeg)  windows binary to use with [Saccubus1.x](https://github.com/Saccubus/Saccubus1.x) 
+For build a [ffmpeg](https://github.com/Saccubus/ffmpeg)  windows binary to use with [Saccubus1.x](https://github.com/Saccubus/Saccubus1.x)   
 ffmpeg 32bit(x86) configure and build shell script (just a memo)
 
 __This should require mingw-w64 msys2 and necessary libralies
