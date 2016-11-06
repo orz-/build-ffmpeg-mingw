@@ -1,20 +1,22 @@
 # build-ffmpeg-mingw
 
-‚³‚«‚ã‚Î‚·1.xx—p‚ÌFFmpeg 32bit‚ğƒrƒ‹ƒh‚·‚é‚½‚ß‚Ì
-mingw-w64 msys2ƒrƒ‹ƒhƒXƒNƒŠƒvƒgi©•ª—pƒƒ‚j
-__mingw-w64 msys2 ‚Æ•K—vƒ‰ƒCƒuƒ‰ƒŠ[‚Í—\‚ßƒCƒ“ƒXƒg[ƒ‹‚ª•K—v__
+ã•ãã‚…ã°ã™1.xxç”¨ã®FFmpeg 32bitã‚’ãƒ“ãƒ«ãƒ‰ã™ã‚‹ãŸã‚ã®
+mingw-w64 msys2ãƒ“ãƒ«ãƒ‰ã‚¹ã‚¯ãƒªãƒ—ãƒˆï¼ˆè‡ªåˆ†ç”¨ãƒ¡ãƒ¢ï¼‰
 
-uŸè‚É‚µ‚â‚ª‚êvƒ‰ƒCƒZƒ“ƒX(WTFPL http://www.wtfpl.net/txt/copying/)
+__mingw-w64 msys2 ã¨å¿…è¦ãƒ©ã‚¤ãƒ–ãƒ©ãƒªãƒ¼ã¯äºˆã‚ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ãŒå¿…è¦__
 
-ƒrƒ‹ƒh•û–@F
+ã€Œå‹æ‰‹ã«ã—ã‚„ãŒã‚Œã€ãƒ©ã‚¤ã‚»ãƒ³ã‚¹(WTFPL http://www.wtfpl.net/txt/copying/)
+
+ãƒ“ãƒ«ãƒ‰æ–¹æ³•ï¼š
 
  bash configExp.sh
 
 ----
 For build a ffmpeg windows binary to use with Saccubus1.xx
 ffmpeg 32bit(x86) configure and build shell script (just a memo)
-This should require mingw-w64 msys2 and necessary libralies
- which have been already installed.
+
+__This should require mingw-w64 msys2 and necessary libralies
+ which have been already installed.__
 
 license is WTFPL http://www.wtfpl.net/txt/copying/
 
