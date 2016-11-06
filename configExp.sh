@@ -1,5 +1,5 @@
 #!/bin/bash
-# Usage: configExpn3.2.sh ffmpeg-git-dir-path
+# Usage: configExp.sh ffmpeg-git-dir-path
 #        otherwize use "../ffmpeg" as ffmpeg-git-path
 ffmpegdir=$1
 if [[ -z $ffnoegdir ]]; then
