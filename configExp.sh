@@ -105,27 +105,6 @@ exit
 # --enable-libmodplug \
 # --enable-libkvazaar \
 
-# --enable-gpl \
-# --enable-version3 \
-# --enable-postproc \
-# nasm 2.12-1
-# yasm 1.3.0-2
-# opencore-amrnb 0.1.3
-# opencore-amrwb 0.1.3
-# vo-amrwbenc 1.3.0
-# lame 3.99.5
-# gsm 1.0.13-3
-# speex 1.2rc2-2
-# libvorbis 1.3.5-1
-# libtheora 1.1.1-3
-# opus 1.1.2-3
-# xvidcore 1.4.0
-# libvpx 1.5.0-1
-# utvideo 15.5.0
-# openjpeg 1.5.2-6
-# x264 0.148.2705+3 eb0c7a7
-# x265 1.9-1
-# libmfx 1.16
 # nvenc SDK 6.0
 # --enable-hwaccel=h264_dxva2 \
 # --enable-hwaccel=hevc_dxva2 \
