@@ -4,7 +4,7 @@
 mingw-w64 msys2ビルドスクリプト（自分用メモ）
 
 __mingw-w64 msys2 と必要ライブラリーは予めインストールが必要__  
-libraries.txt 参照
+[libraries.txt](https://github.com/orz-/build-ffmpeg-mingw/blob/master/libraries.txt) 参照
 
 「勝手にしやがれ」ライセンス(WTFPL http://www.wtfpl.net/txt/copying/)
 
@@ -18,7 +18,7 @@ ffmpeg 32bit(x86) configure and build shell script (just a memo)
 
 __This should require mingw-w64 msys2 and necessary libralies
  which have been already installed.__  
- refer https://github.com/orz-/build-ffmpeg-mingw/blob/master/libraries.txt
+ refer [libraries.txt](https://github.com/orz-/build-ffmpeg-mingw/blob/master/libraries.txt)
 
 license is WTFPL http://www.wtfpl.net/txt/copying/
 
