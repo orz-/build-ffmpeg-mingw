@@ -23,8 +23,9 @@ export dir=$ffmpegdir
  git branch -D officialmaster || true
  git checkout -b officialmaster official/master
  git checkout master
- git branch -D latest_1.x || true
- git checkout -b latest_1.x origin/latest_1.x
+ git branch -D buildbranch || true
+ git checkout -b buildbranch origin/Saccubus1
+ git rebase officialmaster
  cat<<EOL
  #######################
  If you want to build anohter branch for Saccubus1 else with latest_1.x 
