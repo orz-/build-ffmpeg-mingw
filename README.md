@@ -11,7 +11,7 @@ __mingw-w64 msys2 と必要ライブラリーは予めインストールが必�
 レポジトリ-ブランチ:
 
  *  master : さきゅばす配布最新版再ビルド[Saccubus/latest_1.xブランチ](https://github.com/Saccubus/ffmpeg/tree/latest_1.x) をビルドする  
- *  build_ffmpeg_master : FFmpeg公式最新版ビルド [FFmpeg/master]https://github.com/FFmpeg/FFmpeg/tree/master をSaccubus1ブランチにリベースしてビルドする  
+ *  build_ffmpeg_master : FFmpeg公式最新版ビルド [FFmpeg/master](https://github.com/FFmpeg/FFmpeg/tree/master) をSaccubus1ブランチにリベースしてビルドする  
 
 ビルド方法：
 
@@ -31,7 +31,7 @@ license is WTFPL http://www.wtfpl.net/txt/copying/
 
 Branches:  
  *  master : build from [Saccubus/latest_1.x](https://github.com/Saccubus/ffmpeg/tree/latest_1.x)  
- *  build_ffmpeg_master : rebase and build from official [FFmpeg/master]https://github.com/FFmpeg/FFmpeg/tree/master)  
+ *  build_ffmpeg_master : rebase and build from official [FFmpeg/master](https://github.com/FFmpeg/FFmpeg/tree/master)  
 
 to build ffmpeg, please try
 
